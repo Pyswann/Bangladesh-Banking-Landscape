@@ -37,4 +37,27 @@ This Power BI project provides:
 - Navigate from summary view to detailed breakdown instantly
 
 ---
+## 📈 Insights Uncovered
+
+- **Dhaka Division** hosts the highest number of branches.
+- **Kotwali**, **Motijheel**, and **Gulshan** thanas have the densest coverage.
+- **State-owned banks** dominate in rural areas, while **private banks** cluster in cities.
+
+---
+
+## 🚀 Use Cases
+
+- Financial inclusion research  
+- Strategic bank expansion planning  
+- Government or regulatory analysis  
+- Geography-based business intelligence projects  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop**
+- **Microsoft Excel** (for data pre-processing)
+- **DAX** for custom KPIs and drill-through measures
+- **OpenStreetMap** for geo visuals
 
