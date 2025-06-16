@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard that visualizes the **distribution of bank branches across Bangladesh** by **division**, **district**, and **thana**. This project uses a real-world dataset to analyze the **reach, density, and coverage of 61 banks** regulated under the **Bangladesh Bank**.
 
-![Dashboard Preview](dashboard-preview.png)
+![image](https://github.com/user-attachments/assets/debaca6a-dfd7-4846-ac39-5c279605bcfe)
+
 
 ---
 
